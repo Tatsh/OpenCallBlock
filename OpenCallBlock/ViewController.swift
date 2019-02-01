@@ -230,7 +230,7 @@ class ViewController: UIViewController {
 // MARK: - Constants
 
 private struct Constants {
-    static let CallDirectoryExtensionIdentifier = "io.ballinger.OpenCallBlock.CallDirectoryExtension"
+    static let CallDirectoryExtensionIdentifier = "sh.tat.OpenCallBlock.CallDirectoryExtension"
     static let EditBlocklistSegue = "editBlocklist"
     static let EditWhitelistSegue = "editWhitelist"
 }

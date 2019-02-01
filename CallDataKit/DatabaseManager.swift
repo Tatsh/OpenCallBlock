@@ -11,7 +11,7 @@ import CocoaLumberjackSwift
 import CallKit
 
 private struct Constants {
-    static let AppGroupName = "group.io.ballinger.OpenCallBlock"
+    static let AppGroupName = "group.sh.tat.OpenCallBlock"
     /// user model
     static let UserKey = "UserKey"
 }
